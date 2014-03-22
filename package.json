@@ -1,0 +1,11 @@
+{
+  "name": "ucss-test",
+  "version": "0.0.1",
+  "main": "../src",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-ucss": "^0.1.2",
+    "grunt-uncss": "^0.2.2"
+  }
+}
